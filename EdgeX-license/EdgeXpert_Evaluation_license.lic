@@ -1,0 +1,17 @@
+{
+    "EdgeXpert": {
+        "Details": {
+            "Name": "Eval",
+            "Company": "Eval",
+            "Type": "Evaluation",
+            "Created": "1651600030",
+            "Duration": "21",
+            "Expiry": "2022-May-24",
+            "ID": "Eval"
+        },
+        "Services": [
+            "all"
+        ]
+    },
+    "Signature": "c9/slT232DEpZDboxpj32OBf0ob/Bx2mRkydFBVvjMrs2v3z4aSQ31ravC+f/oB6wa+t94nb51BXlri5evf5xYkk3909V3aLH4NF2Q6b4M4Ft+wTgCq+e7MLiHyyIBXvLpHySdao0O73P2HAjmsEJ5HSUjhIvpz0gOzELGNM1IhPT0jb/2V4+FzacmMM81XfZDqb80DQjPTHa7ZHpWg9rROLNkbiTnKSLm7IOnPQt9cQjvBpWEzUBOdj/uhGYfkmKaiUPzwhVgIoOwSTzU23iM16SPsMBNWFRid3ZT+2nxcsA6voDbGbgTFPM/RVZ45l+HI8F6i1aa7de52YySNyxA=="
+}
